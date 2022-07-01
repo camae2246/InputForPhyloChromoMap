@@ -1,0 +1,1 @@
+((Ex_tr_Tviv_TvY486_1003020_mRNA-p1:0.68235,(Ex_tr_Teva_TevSTIB805.10.3210-t26_1-p1:0,Ex_tr_Tbru_Tb927.10.2970_mRNA-p1:0)n2:0.485636)n1:0.10072,(Ex_tr_Lpyr_rna_LpyrH10_05_0850-p1:0.10877,Ex_tr_Lsey_rna_Lsey_0144_0080-1-p1:0.134118)n4:0.474801,(Ex_tr_Linf_LINF_340011400-T1-p1:0,Ex_tr_Ldon_LdBPK_340600.1.1-p1:0)n5:0.552334);

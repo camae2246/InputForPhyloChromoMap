@@ -1,0 +1,1 @@
+((Ap_ca_Tann_TA15280-t26_1-p1:0.730236,Ap_ca_Tequ_BEWA_018180-t26_1-p1:0.790404)n1:0.113759,(Oa_ch_Cvel_Cvel_23337.t1-p1:1.44003,Oa_ch_Vbra_Vbra_21844.t1-p1:1.38905)n4:0.454455,St_gy_Fsol_GAX18158.1:2.159601);

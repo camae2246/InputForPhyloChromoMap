@@ -1,0 +1,1 @@
+(Di_df_Pgla_CAE8604579.1:1.54494,Ex_bo_Bsal_BSAL_92135-t42_1-p1:1.328457,(Ex_tr_Lsey_rna_Lsey_0555_0010-1-p1:0.342941,Ex_tr_Lpyr_rna_LpyrH10_27_0580-p1:0.520676)n2:1.6178);

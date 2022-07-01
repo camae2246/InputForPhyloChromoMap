@@ -1,0 +1,1 @@
+((Oa_ci_Scoe_SteCoe_25622:1.03743,Oa_ci_Tthe_TTHERM_00006140:0.748809)n1:0.0766665,Oa_ci_Otri_g41440:0.5705355,Oa_ci_Slem_Contig626.g691:0.6465955);

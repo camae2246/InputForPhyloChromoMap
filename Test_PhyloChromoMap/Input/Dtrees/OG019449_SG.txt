@@ -1,0 +1,1 @@
+(Rh_ce_Pbra_CEP00093.1:1.130757,Oa_ci_Scoe_SteCoe_29129:1.873769,(Ex_tr_Tbru_Tb927.10.16160_mRNA-p1:0,Ex_tr_Teva_TevSTIB805.10.17020-t26_1-p1:0)n2:1.463479);

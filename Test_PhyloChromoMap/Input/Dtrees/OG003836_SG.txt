@@ -1,0 +1,1 @@
+(Oa_ci_Scoe_SteCoe_36043:0.6738414,Oa_ci_Evan_MSTRG.2501.1_fr3:1.0653382,(Oa_ci_Slem_Contig16566.g17639:0.574112,Oa_ci_Otri_g29800:0.290854)n29:0.26067171);

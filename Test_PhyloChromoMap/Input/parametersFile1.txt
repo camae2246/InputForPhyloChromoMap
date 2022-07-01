@@ -1,0 +1,29 @@
+### Full path to input files
+* path to files: ../Padleri
+
+### Name of folder containing gene trees
+* trees folder:	Dtrees
+
+### Name of file containing chromosomes sizes
+* chromosome size file: PadlChromoSize.csv
+
+### Name of file containing the mapping information
+* mapping file: PadlMapFile.csv											
+
+### Major clade (Ap, Di, Oa, Rh, St, Ex)
+* major clade: Ap
+
+### Number of minor clades per each major clade in the database 
+* minor clades Ap (Apicomplexa): 3
+* minor clades Di (Dinozoa): 2
+* minor clades Oa (Other Alveolates): 2
+* minor clades Rh (Rhizaria): 2
+* minor clades St (Stramenopila): 2
+* minor clades Ex (Excavata): 2
+
+
+### minimum number of leaves per tree (trees with less leaves are not mapped)
+* criterion: 10											
+
+### Number of nucleotides separating each interval in the map
+* m_interval: 1000

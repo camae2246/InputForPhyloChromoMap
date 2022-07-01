@@ -1,0 +1,1 @@
+((St_gy_Esil_CBJ28029.1:1.33965,St_gy_Fsol_GAX19470.1:0.8089636)n1:0.111304,Oa_ch_Vbra_Vbra_5613.t1-p1:1.513462,Oa_ch_Cvel_Cvel_1678.t1-p1:1.764932);

@@ -1,0 +1,1 @@
+(Oa_ci_Scoe_SteCoe_20367:1.504457,Ex_tr_Lpyr_rna_LpyrH10_02_0670-p1:0.917346,(Ex_tr_Linf_LINF_320010900-T1-p1:0,Ex_tr_Ldon_LdBPK_320590.1.1-p1:0)n3:0.8596950000000001);

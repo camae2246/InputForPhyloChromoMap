@@ -1,0 +1,1 @@
+((St_gy_Pinf_PITG_10869-t26_1-p1:0.474355,St_gy_Spar_SPRG_09905-t26_1-p1:1.172)n1:0.107943,Oa_ch_Cvel_Cvel_26121.t1-p1:1.281572,Oa_ch_Vbra_Vbra_16327.t1-p1:1.324589);

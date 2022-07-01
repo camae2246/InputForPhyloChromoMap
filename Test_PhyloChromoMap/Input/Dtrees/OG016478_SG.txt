@@ -1,0 +1,1 @@
+(Ex_tr_Pcon_PCON_0019150.mRNA-p1:0.918885,(Ex_tr_Ldon_LdBPK_350920.1.1-p1:5e-07,Ex_tr_Linf_LINF_350013700-T1-p1:5e-07)n2:0.69903,(Ex_tr_Lpyr_rna_LpyrH10_01_2600-p1:0.129367,Ex_tr_Lsey_rna_Lsey_0264_0040-1-p1:0.293614)n3:0.3558768);

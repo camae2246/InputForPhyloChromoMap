@@ -1,0 +1,1 @@
+((Di_df_Pgla_CAE8620909.1:1.07,Oa_ch_Cvel_Cvel_14226.t1-p1:1.30262)n1:0.01196145,Oa_ch_Vbra_Vbra_21139.t1-p1:1.59079435,Oa_ci_Slem_Contig2902.g3108:1.0136253499999999);

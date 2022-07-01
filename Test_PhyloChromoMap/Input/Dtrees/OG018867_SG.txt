@@ -1,0 +1,1 @@
+((Ex_tr_Lpyr_rna_LpyrH10_10_0810-p1:0.246588,Ex_tr_Lsey_rna_Lsey_0093_0200-1-p1:0.378513)n1:0.2711595,Ex_tr_Linf_LINF_250012300-T1-p1:0.8169967,Ex_tr_Ldon_LdBPK_250700.1.1-p1:0.8156383);

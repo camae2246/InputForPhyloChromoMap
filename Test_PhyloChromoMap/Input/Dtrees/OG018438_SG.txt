@@ -1,0 +1,1 @@
+(Ex_bo_Bsal_BSAL_26190-t42_1-p1:0.785088,Ex_tr_Linf_LINF_290015900-T1-p1:0.808424,(Ex_tr_Lsey_rna_Lsey_0016_0490-1-p1:0.299719,Ex_tr_Lpyr_rna_LpyrH10_08_1270-p1:0.40727)n2:0.409796);

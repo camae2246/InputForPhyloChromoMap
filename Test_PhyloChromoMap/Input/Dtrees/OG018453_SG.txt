@@ -1,0 +1,1 @@
+((Ex_tr_Pcon_PCON_0012200.mRNA-p1:2.01846,Ex_bo_Bsal_BSAL_45000-t42_1-p1:1.9815)n1:0.392738,Ex_tr_Lpyr_rna_LpyrH10_02_1030-p1:1.466866,Ex_tr_Lsey_rna_Lsey_0035_0020-1-p1:1.2244943);

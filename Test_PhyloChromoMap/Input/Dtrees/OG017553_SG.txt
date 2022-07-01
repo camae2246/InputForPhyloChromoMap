@@ -1,0 +1,1 @@
+(Ap_cr_Chom_Chro.20041-t26_1-p1:0.2175885,Ap_cr_Ctyz_CTYZ_00002272-RA-p1:0.092662,(Ap_cr_Cmel_CmeUKMEL1_09085-t37_1-p1:0.114354,Ap_cr_Cpar_cgd2_340-RA-p1:0.01474)n2:0.076875);

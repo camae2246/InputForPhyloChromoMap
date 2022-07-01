@@ -1,2 +1,2 @@
-# InputForPhyloChromoMap
-Creation of input files for running PhyloChromoMap
+# RunningPhyloChromoMap
+Input files for running PhyloChromoMap
